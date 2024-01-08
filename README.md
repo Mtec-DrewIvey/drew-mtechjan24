@@ -7,3 +7,5 @@ Drew Jan24
 'git push' #this pushes my code from my machine to the origin (github).
 'git log' # this shows me what is going on.
 'git help status' # this is the manual of the command status.
+
+'Creating changes for macbook air testing'
